@@ -10,7 +10,7 @@
 		<div id="accordion">
           <h3>HTML</h3>
           <div>
-            <p>Contains All The HTML File That Contains The Pictures In A Grid.</p>
+            <p>Contains All The Scoring Files And Tables For The Pictures.</p>
           </div>
 		  <h3>CSS</h3>
           <div>
